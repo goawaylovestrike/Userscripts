@@ -16,7 +16,7 @@ A userscript that removes blur effects from thumbnails and video previews on VK.
 
 ## Technical Details
 
-- **Version**: 1.1
+- **Version**: 2.5
 - **License**: MIT
 - **Author**: GoAwayLoveStrike
 - **Namespace**: https://github.com/goawaylovestrike
