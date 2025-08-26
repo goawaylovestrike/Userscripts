@@ -5,6 +5,7 @@
 // @description  Remove blur effects from thumbnails on vk.com
 // @author       GoAwayLoveStrike
 // @downloadURL  https://github.com/goawaylovestrike/Userscripts/raw/refs/heads/main/Scripts/vk-image-unblur/vk-image-unblur.user.js
+// @icon         https://github.com/goawaylovestrike/Userscripts/blob/main/vk-image-unblur/vk-image-unblur.png
 // @match        https://vk.com/*
 // @match        https://vkvideo.ru/*
 // @grant        none
