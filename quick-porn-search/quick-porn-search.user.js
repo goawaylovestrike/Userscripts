@@ -5,7 +5,7 @@
 // @author       GoAwayLoveStrike
 // @version      5.3
 // @downloadURL  https://github.com/goawaylovestrike/Userscripts/raw/refs/heads/main/Scripts/quick-porn-search/quick-porn-search.user.js
-// @include https://www.porndupe.net/*
+// @icon         https://raw.githubusercontent.com/goawaylovestrike/Userscripts/refs/heads/main/quick-porn-search/quick-porn-search.png
 // @include https://www.wifey.com/*
 // @include https://tour.swallowed.com/*
 // @include https://myfamilypies.com/*
